@@ -1,5 +1,5 @@
 include:
-  - board: seeed_xiao_ble
+  - board: xiao_ble
     shield: ergonaut_one_left
-  - board: seeed_xiao_ble
+  - board: xiao_ble
     shield: ergonaut_one_right
