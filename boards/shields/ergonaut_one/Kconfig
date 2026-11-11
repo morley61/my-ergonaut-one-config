@@ -1,1 +1,2 @@
 source "boards/shields/ergonaut_one/Kconfig.shield"
+source "boards/shields/ergonaut_one/Kconfig.defconfig"
