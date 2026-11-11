@@ -1,0 +1,9 @@
+if SHIELD_ERGONAUT_ONE_LEFT || SHIELD_ERGONAUT_ONE_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "Ergonaut One"
+
+config ZMK_SPLIT
+    default y
+
+endif
